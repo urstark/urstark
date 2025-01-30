@@ -22,18 +22,18 @@
 
 <details>
 <summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></b></summary>
+<
 <p align="center">
 <a href="https://www.telegram.dog/btw_StaRk"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 <a href="https://www.telegram.dog/btw_StaRkk"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 <a href="https://www.telegram.dog/mR_StaRk_oF"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
-<a href="https://www.telegram.dog/mR_StaRk_oF"><img alt="replit" src="https://img.shields.io/badge/-Whatshapp-blue?style=for-the-badge&logo=whatshapp&logoColor=white"/>
+<a href="https://www.telegram.dog/mR_StaRk_oF"><img alt="replit" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</p>
 </details>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
   <br>
   <br>
-<br>
 <p align="center">
 𝚃𝙷𝙰𝙽𝙺𝚈𝙾𝚄 𝙵𝙾𝚁 𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
 </p>
