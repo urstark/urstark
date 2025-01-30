@@ -32,7 +32,7 @@
 <br>
 
 <details>
-<summary align="center"> 👀 <b>ᴀ ʙɪᴛ ɪɴᴛʀᴏ ᴏғ ᴍɪɴᴇ </b><a href="https://btw-stark.blohspot.com"> click here </a></summary>
+<summary align="center"> 👀 <b>ᴀ ʙɪᴛ ɪɴᴛʀᴏ ᴏғ ᴍɪɴᴇ </b><a href="https://btw-stark.blogspot.com"> click here </a></summary>
 </details>
 <br> 
 
