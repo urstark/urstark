@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @urstark
-- 👀 I’m interested in Programming
+- 👋 Hi, its STARK here.
+- 👀 I’m interested in Programming, Vid/Img editing and Music.
 - 🌱 I’m currently learning HTML,CSS,JS and PYTHON
-- 📫 To reach me urstarkz@proton.me
+- 📫 To reach me sr7blackbirds@gmail.com
 
 <!---
 urstark/urstark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
