@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><img class="image" align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJP-tSqQg4zXxTQ_1JsV-UfTL0nxt_pKw9zWrs99LvJ2-yryIovr_Yo4Ih8TtwGH1DT64dFVoHEaX8i6HTptOxSG3vyljcsIRludtti0yI0e4ooRvqUYgrD5nirSPnIJiedMJGVkzQ6TzatjBFEPzaggYLLdXpUVJEePcI7ISqA-4hLugHXCyQv_A3K_9p/s736/IMG_20250127_222125_698.jpg" alt="profile pic" width="400"></p>
+<p align="center"><img class="image" align="center" src="https://raw.githubusercontent.com/Mr-Stark-Off/Hehe/refs/heads/main/btw_stark.gif?token=GHSAT0AAAAAAC4IKP5UM377YOGQRCYPCVIAZ424YQA" alt="profile pic" width="400"></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
