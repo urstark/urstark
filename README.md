@@ -1,6 +1,6 @@
 - 👋 Hi, its STARK here.
 - 👀 I’m interested in Programming, Vid/Img editing and Music.
-- 🌱 I’m currently learning HTML,CSS,JS and PYTHON
+- 🌱 I’m currently learning PYTHON & JS
 - 📫 To reach me sr7blackbirds@gmail.com
 
 <!---
