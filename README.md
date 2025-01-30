@@ -31,6 +31,11 @@
 
 <br>
 
+<details>
+<summary align="center"> 👀 <b>ᴀ ʙɪᴛ ɪɴᴛʀᴏ ᴏғ ᴍɪɴᴇ </b><a href="https://btw-stark.blohspot.com"> click here </a></summary>
+</details>
+<br> 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details>
@@ -42,7 +47,7 @@
 <a href="https://www.telegram.dog/mR_StaRk_oF"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 <a href="https://wa.me/+6281233741890"><img alt="replit" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
-  
+  <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br>
   <br>
