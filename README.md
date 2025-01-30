@@ -1,38 +1,38 @@
+
+<h1 align="center"
+<!--
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+self+Stark)
 </p>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+STARK+🚩+🍁"></b></h2>
 
-- 👋 Hi, its STARK here.
-- 👀 I’m interested in Programming, Vid/Img editing and Music.
-- 🌱 I’m currently learning PYTHON & JS
-- 📫 To reach, me dm on tg : [ <a href="https://t.me/btw_stark">@btw_StaRk</a>, <a href="https://t.me/btw_starkk">@btw_StaRkk</a>, <a href="https://t.me/mr_stark_of">@mR_StaRk_oF</a> ]
-- A bit intro of mine : <a href="https://btw-stark.blogspot.com">Website</a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
-[![Stats](https://github-readme-stats.vercel.app/api?username=btw-StaRk&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/btw-stark/github-readme-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com?user=btw-stark&theme=tokyonight" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btw-stark&layout=compact&theme=tokyonight" align="center">
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img class="image" align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJP-tSqQg4zXxTQ_1JsV-UfTL0nxt_pKw9zWrs99LvJ2-yryIovr_Yo4Ih8TtwGH1DT64dFVoHEaX8i6HTptOxSG3vyljcsIRludtti0yI0e4ooRvqUYgrD5nirSPnIJiedMJGVkzQ6TzatjBFEPzaggYLLdXpUVJEePcI7ISqA-4hLugHXCyQv_A3K_9p/s736/IMG_20250127_222125_698.jpg" alt="profile pic" width="400"></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+- 👋 <b>ɪᴛs sᴛᴀʀᴋ ʜᴇʀᴇ.</b> <br><br>
+- 👀 <b>ɪɴᴛᴇʀᴇsᴛᴇᴅ ɪɴ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ, ᴠɪᴅ/ɪᴍɢ ᴇᴅɪᴛɪɴɢ ᴀɴᴅ ᴍᴜsɪᴄ.</b> <br><br>
+- 🌱 <b>ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ & ᴊs</b>
+<br><br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗧𝗥𝗢𝗣𝗛𝗜𝗘𝗦 🏆
-![](https://github-profile-trophy.vercel.app/?username=btw-stark&theme=tokyonight )
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=btw-stark&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-<h3><i>ғɪɴᴅ ᴍᴇ ʜᴇʀᴇ :-</i></h3>
-</p>
+<details>
+<summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></b></summary>
 <p align="center">
 <a href="https://www.telegram.dog/btw_StaRk"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 <a href="https://www.telegram.dog/btw_StaRkk"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 <a href="https://www.telegram.dog/mR_StaRk_oF"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 <a href="https://www.telegram.dog/mR_StaRk_oF"><img alt="replit" src="https://img.shields.io/badge/-Whatshapp-blue?style=for-the-badge&logo=whatshapp&logoColor=white"/>
-</p>
-<br>
+</details>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <br>
+  <br>
 <br>
 <p align="center">
 𝚃𝙷𝙰𝙽𝙺𝚈𝙾𝚄 𝙵𝙾𝚁 𝚅𝙸𝚂𝙸𝚃𝙸𝙽𝙶 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴
