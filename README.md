@@ -7,7 +7,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><img class="image" align="center" src="https://raw.githubusercontent.com/Mr-Stark-Off/Hehe/refs/heads/main/btw_stark.gif?token=GHSAT0AAAAAAC4IKP5UM377YOGQRCYPCVIAZ424YQA" alt="profile pic" width="400"></p>
+<p align="center"><img class="image" align="center" src="https://avatars.githubusercontent.com/u/96779742?v=4" alt="profile pic" width="400"></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
