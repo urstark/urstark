@@ -42,9 +42,7 @@
 <summary align="center"><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></b></summary>
 </details>
 <p align="center">
-<a href="https://www.telegram.dog/btw_StaRk"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
-<a href="https://www.telegram.dog/btw_StaRkk"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
-<a href="https://www.telegram.dog/mR_StaRk_oF"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://www.telegram.dog/urSTARK"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>
 <a href="https://wa.me/+6281233741890"><img alt="replit" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </p>
   <br>
