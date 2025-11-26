@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://files.catbox.moe/khcip6.jpg" alt="Stark Profile Pic" width="200"/>
+<img src="https://files.catbox.moe/77ezb7.png" alt="Stark Profile Pic" width="200"/>
 </p>
 
 # Stark's Digital Forge
