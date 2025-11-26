@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/96779742?v=4" alt="Stark Profile Pic" width="200"/>
+<img src="https://files.catbox.moe/j8gvih.mp4" alt="Stark Profile Pic" width="200"/>
 </p>
 
-# 💻 Stark's Digital Forge 🚀
+#  Stark's Digital Forge 
 
 **Hello! I'm Stark, a passionate and detail-oriented developer dedicated to building beautiful and intuitive digital experiences.**
 
@@ -10,7 +10,7 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 
 <br>
 
-## 📌 Quick Intro
+## 👀 Quick Intro
 
 | About Me | Interests & Learning |
 | :--- | :--- |
@@ -35,10 +35,10 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 
 ### **What I Can Do**
 
-* ✅ Full-stack website development with database integration.
-* ✅ Custom Telegram bot development with various functionalities.
-* ✅ Building responsive and interactive user interfaces.
-* ✅ Basic image and video editing for web content.
+* => Full-stack website development with database integration.
+* => Custom Telegram bot development with various functionalities.
+* => Building responsive and interactive user interfaces.
+* => Basic image and video editing for web content.
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -61,10 +61,10 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 Have a question or want to work together? Let's connect!
 
 <p align="center">
-<a href="https://www.telegram.dog/urSTARK" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://wa.me/+6281233741890" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://github.com/Mr-Stark-Off" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://btw-stark.blogspot.com" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF6A00?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+<a href="https://www.telegram.dog/cutzj" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://wa.me/+201121417464" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://github.com/urstark" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://urstark.is-a.dev" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF6A00?style=for-the-badge&logo=blogger&logoColor=white"/></a>
 </p>
 
 ***
