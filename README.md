@@ -1,8 +1,8 @@
 <p align="center">
-<img src="https://files.catbox.moe/j8gvih.mp4" alt="Stark Profile Pic" width="200"/>
+<img src="https://files.catbox.moe/khcip6.jpg" alt="Stark Profile Pic" width="200"/>
 </p>
 
-#  Stark's Digital Forge 
+# Stark's Digital Forge
 
 **Hello! I'm Stark, a passionate and detail-oriented developer dedicated to building beautiful and intuitive digital experiences.**
 
@@ -64,7 +64,10 @@ Have a question or want to work together? Let's connect!
 <a href="https://www.telegram.dog/cutzj" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://wa.me/+201121417464" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/urstark" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://urstark.is-a.dev" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-FF6A00?style=for-the-badge&logo=blogger&logoColor=white"/></a>
+<a href="https://urstark.is-a.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-5E21F4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://instagram.com/urstarkz" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://discordapp.com/users/954717884339355688" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="mailto:urstarkz@proton.me" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 </p>
 
 ***
