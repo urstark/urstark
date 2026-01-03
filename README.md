@@ -5,7 +5,7 @@
 # Stark's Digital Forge
 
 **Hello! I'm Stark, a passionate and detail-oriented developer dedicated to building beautiful and intuitive digital experiences.**
-.
+
 I thrive on turning complex creative ideas into elegant, real-world solutions, from responsive front-end interfaces to intelligent back-end systems. My focus is on writing clean, maintainable code and practicing user-centric design to deliver products that are not only functional but also a delight to use.
 
 <br>
