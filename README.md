@@ -43,19 +43,6 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌟 Featured Projects
-
-| Project Name | Description | Category |
-| :--- | :--- | :--- |
-| **Friday-v1** | A versatile project showcasing web development skills. | Full-Stack/Web Dev |
-| **StarkOSINT** | An Open Source Intelligence tool project. | Security/Tools |
-| **Eternalss** | A web application with a unique concept. | Web Application |
-| **CrackAlgo** | An algorithm visualization or cracking tool. | Tooling/Algorithms |
-| **SanyaMusicbot** | A feature-rich music bot for Telegram. | Telegram Bot |
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 👋 Connect With Me
 
 Have a question or want to work together? Let's connect!
