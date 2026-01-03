@@ -2,7 +2,7 @@
 <img src="https://files.catbox.moe/157m7g.png" alt="Stark Profile Pic" width="200"/>
 </p>
 
-# Stark's Digital Forge
+# My Digital Forge
 
 **Hello! I'm Stark, a passionate and detail-oriented developer dedicated to building beautiful and intuitive digital experiences.**
 
@@ -10,18 +10,9 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 
 <br>
 
-## 👀 Quick Intro
-
-| About Me | Interests & Learning |
-| :--- | :--- |
-| **Goal:** Deliver products that are functional and a delight to use. | **Programming:** Currently learning **Python** and **JavaScript**. |
-| **Focus:** Responsive front-end interfaces and intelligent back-end systems. | **Creative:** Vid/Img Editing & Design. |
-| | **Other:** Exploring genres and finding new artists in music (Listening to Music). |
-
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Skills & Abilities
+##  Skills & Abilities
 
 ### **Technical Proficiencies**
 
@@ -35,15 +26,15 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 
 ### **What I Can Do**
 
-* => Full-stack website development with database integration.
-* => Custom Telegram bot development with various functionalities.
-* => Building responsive and interactive user interfaces.
-* => Basic image and video editing for web content.
+*  Full-stack website development with database integration.
+*  Custom Telegram bot development with various functionalities.
+*  Building responsive and interactive user interfaces.
+*  Basic image and video editing for web content.
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👋 Connect With Me
+##  Connect With Me
 
 Have a question or want to work together? Let's connect!
 
@@ -56,8 +47,6 @@ Have a question or want to work together? Let's connect!
 <a href="https://discordapp.com/users/954717884339355688" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="mailto:urstarkz@proton.me" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/></a>
 </p>
-
-***
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
