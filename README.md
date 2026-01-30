@@ -27,7 +27,7 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 Have a question or want to work together? Let's connect!
 <br><br>
 <p align="center">
-<a href="https://www.telegram.dog/cutzj" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.telegram.dog/urstarkz" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://wa.me/+201121417464" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://github.com/urstark" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://urstark.is-a.dev" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-5E21F4?style=for-the-badge&logo=vercel&logoColor=white"/></a>
