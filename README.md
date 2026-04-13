@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=My%20Digital%20Forge&fontSize=25&fontColor=fff&animation=scaleIn&fontAlignY=38&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=header&text=My%20Digital%20Forge&fontSize=20&fontColor=fff&animation=scaleIn&fontAlignY=38&descAlignY=58" width="100%"/>
 
 **Hello! I'm Stark, a passionate and detail-oriented developer dedicated to building beautiful and intuitive digital experiences.**
 
@@ -88,7 +88,3 @@ Have a question or want to work together? Let's connect!
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&fontSize=20&fontColor=fff&text=Keep%20Building.%20Keep%20Learning.%20" width="100%"/>
-
-
