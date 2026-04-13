@@ -21,7 +21,7 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 
 <div align="center">
 
-## GitHub Stats
+# GitHub Stats
 
 <img src="https://streak-stats.demolab.com/?user=urstark&theme=dark&hide_border=false" height="170" />
 
@@ -32,7 +32,7 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 
 <br>
 
-## Contribution Graph
+# Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=urstark&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FF6B6B&area=true&hide_border=true&area_color=00FFD120" width="96%" />
 
