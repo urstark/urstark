@@ -19,8 +19,6 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 *  Building responsive and interactive user interfaces.
 *  Basic image and video editing for web content.
 
-<br>
-
 <div align="center">
 
 ## GitHub Stats
