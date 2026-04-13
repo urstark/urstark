@@ -1,13 +1,12 @@
-<p align="center">
-<img src="https://files.catbox.moe/157m7g.png" alt="Stark Profile Pic" width="200"/>
-</p>
+<div align="center">
 
-# My Digital Forge
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=My%20Digital%20Forge&fontSize=25&fontColor=fff&animation=scaleIn&fontAlignY=38&descAlignY=58" width="100%"/>
 
 **Hello! I'm Stark, a passionate and detail-oriented developer dedicated to building beautiful and intuitive digital experiences.**
 
 I thrive on turning complex creative ideas into elegant, real-world solutions, from responsive front-end interfaces to intelligent back-end systems. My focus is on writing clean, maintainable code and practicing user-centric design to deliver products that are not only functional but also a delight to use.
 
+</div>
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -21,6 +20,30 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 *  Basic image and video editing for web content.
 
 <br>
+
+<div align="center">
+
+## GitHub Stats
+
+<img src="https://streak-stats.demolab.com/?user=urstark&theme=dark&hide_border=false" height="170" />
+
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api?username=urstark&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=urstark&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="170" />
+
+<br>
+
+## Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=urstark&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FF6B6B&area=true&hide_border=true&area_color=00FFD120" width="96%" />
+
+<br>
+
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=urstark&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 
 # Connect With Me
 
@@ -44,3 +67,7 @@ Have a question or want to work together? Let's connect!
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling&fontSize=20&fontColor=fff&text=Keep%20Building.%20Keep%20Learning.%20" width="100%"/>
+
+
