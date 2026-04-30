@@ -36,6 +36,13 @@ I thrive on turning complex creative ideas into elegant, real-world solutions, f
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=urstark&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FF6B6B&area=true&hide_border=true&area_color=00FFD120" width="96%" />
 
+<br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://github-profile-trophy.vercel.app/?username=urstark&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=5" />
+
+<br>
+
 # Tech Stack
 
 ### Frontend Development
