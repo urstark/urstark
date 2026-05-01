@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,workers,vercel,heroku,git,github,vscode&perline=10&theme=dark" /><br>
   
   <!-- Languages & Core Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,bash,powershell,php&perline=10&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,bash,powershell&perline=10&theme=dark" /><br>
   
   <!-- Frontend Frameworks & Libraries -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,threejs,jquery,tailwind,vite,electron&perline=10&theme=dark" /><br>
