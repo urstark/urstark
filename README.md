@@ -33,7 +33,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase,supabase,postgresql&perline=10&theme=dark" /><br>
   
   <!-- OS & Environments -->
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,apple,windows&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=10&theme=dark" />
 </div>
 
 # GitHub Stats
