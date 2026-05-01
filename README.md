@@ -81,15 +81,11 @@
 <div align="grid">
   
   ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C521%20hrs%2018%20mins-blue?style=flat)
-  
   ![Profile Views](http://img.shields.io/badge/Profile%20Views-1376-blue)
-
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04%20million%20lines%20of%20code-blue?style=flat)
+  
 </div>
-
 <br>
-
-</div>
 
 # Connect With Me
 
