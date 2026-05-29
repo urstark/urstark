@@ -39,7 +39,6 @@
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/stats?username=urstark&theme=dark&layout=standard&show_icons=true&hide_border=true&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
   <img src="https://github-profile-maker.vercel.app/api/streak?username=urstark&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
-
 </div>
 
 <br>
