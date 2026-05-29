@@ -45,10 +45,10 @@
   
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/streak?username=urstark&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
-<br>
+</div>
 <br><br>
 
-<div align="grid">
+<div align="center">
 
   ![Profile Views](http://img.shields.io/badge/Profile%20Views-1376-blue)
   ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C521%20hrs%2018%20mins-blue?style=flat)
