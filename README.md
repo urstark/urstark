@@ -4,33 +4,31 @@
 <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=00ffd5&colorEnd=A82DAA&height=200&section=header&text=Myself+Stark+%21%21&fontSize=30&fontColor=ffffff&animation=waving&gradientDirection=horizontal&parallax=true&wavePosition=47&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=50&rtl=24&rtr=24&rbr=0&rbl=0" />
 
 
-**Hello! I'm Stark, a passionate and detail-oriented developer dedicated to building beautiful and intuitive digital experiences.**
+**Hello! I'm Stark (Stark), i'm a student and i love coding since i was in class 8th, and i really love doing complex things and making them simple and still i am learning new things day to day.**
 
 > I thrive on turning complex creative ideas into elegant, real-world solutions, from responsive front-end interfaces to intelligent back-end systems. My focus is on writing clean, maintainable code and practicing user-centric design to deliver products that are not only functional but also a delight to use.
 >
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
 
 # Tech Stack
 
 <div align="center">
   <!-- DevOps, Cloud & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,workers,vercel,heroku,git,github,vscode&perline=10&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,workers,vercel,heroku,git,github,vscode&perline=10&theme=dark" />
   
   <!-- Languages & Core Web -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,bash,powershell&perline=10&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,bash,powershell&perline=10&theme=dark" />
   
   <!-- Frontend Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,threejs,jquery,tailwind,vite,electron&perline=10&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,threejs,jquery,tailwind,vite,electron&perline=10&theme=dark" />
   
   <!-- Backend, APIs & Runtime -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,npm,pytorch,bots&perline=10&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,npm,pytorch,bots&perline=10&theme=dark" />
   
   <!-- Storage & Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase,supabase,postgresql&perline=10&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase,supabase,postgresql&perline=10&theme=dark" />
   
   <!-- OS & Environments -->
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=10&theme=dark" />
@@ -40,52 +38,25 @@
 
 <div align="center">
   <img src="https://github-profile-maker.vercel.app/api/stats?username=urstark&theme=dark&layout=standard&show_icons=true&hide_border=true&hide_title=false&hide_rank=false&border_radius=10" alt="GitHub Stats" width="49%" height="230" style="margin-right: 12px;" />
-  <img src="https://github-profile-maker.vercel.app/api/top-langs?username=urstark&theme=dark&layout=compact&hide_border=true&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
+  <img src="https://github-profile-maker.vercel.app/api/streak?username=urstark&theme=dark&hide_border=true&border_radius=10" alt="GitHub Streak" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/streak?username=urstark&theme=dark&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</div>
-
-<br>
-
-# Contribution Graph
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/activity?username=urstark&theme=dark&hide_border=false" alt="Activity Graph" />
-</div>
-
-<br><br>
-
-# Trophies
-
-<div align="center">
-  <img src="https://github-profile-maker.vercel.app/api/trophies?username=urstark&theme=dark&column=6&row=1&margin_w=15&margin_h=15&no_frame=false&no_bg=true" alt="GitHub Trophies" />
-
-<br>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=urstark&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=5" />
-</div>
-
-
-<br>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-</div>
+    <img src="https://github-profile-maker.vercel.app/api/top-langs?username=urstark&theme=dark&layout=compact&hide_border=true&hide_progress=false&langs_count=8&border_radius=10" alt="Top Languages" width="49%" height="230" style="" />
+  </div>
 
 <br><br>
 
 <div align="grid">
-  
-  ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C521%20hrs%2018%20mins-blue?style=flat)
+
   ![Profile Views](http://img.shields.io/badge/Profile%20Views-1376-blue)
+  ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C521%20hrs%2018%20mins-blue?style=flat)
   ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04%20million%20lines%20of%20code-blue?style=flat)
   
 </div>
-<br>
 
 # Connect With Me
 
