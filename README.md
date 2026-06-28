@@ -4,9 +4,9 @@
 <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=00ffd5&colorEnd=A82DAA&height=200&section=header&text=Myself+Stark+%21%21&fontSize=30&fontColor=ffffff&animation=waving&gradientDirection=horizontal&parallax=true&wavePosition=47&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=50&rtl=24&rtr=24&rbr=0&rbl=0" />
 
 
-**Hello! I'm Stark, i'm a student and i love coding since i was in class 8th, and i really love doing complex things and making them simple and still i am learning new things day to day.**
+**Hello! I'm Stark. I'm a student who fell in love with coding back in 8th grade. I enjoy taking on complex problems and finding simple, creative ways to solve them. I always learning something new every day.**
 
-> I thrive on turning complex creative ideas into elegant, real-world solutions, from responsive front-end interfaces to intelligent back-end systems. My focus is on writing clean, maintainable code and practicing user-centric design to deliver products that are not only functional but also a delight to use.
+> I love the open-source community, and my goal is to constantly learn and grow as a developer. While I spend time building my own apps, I am always happy to participate and contribute to other projects. I am open to collaboration, work, and excited to build awesome things with others. If you have a great idea, let's team up and work together. Let's learn and build!
 >
 </div>
 
@@ -16,19 +16,19 @@
 
 <div align="center">
   <!-- DevOps, Cloud & Tools -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,cloudflare,workers,vercel,heroku,git,github,vscode&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,workers,vercel,heroku,git,github,vscode&perline=10&theme=dark" />
   
   <!-- Languages & Core Web -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,bash,powershell&perline=10&theme=dark" />
   
   <!-- Frontend Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,threejs,jquery,tailwind,vite,electron&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,electron&perline=10&theme=dark" />
   
   <!-- Backend, APIs & Runtime -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,npm,pytorch,bots&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,flask,npm,bots&perline=10&theme=dark" />
   
   <!-- Storage & Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase,supabase,postgresql&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,firebase&perline=10&theme=dark" />
   
   <!-- OS & Environments -->
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=10&theme=dark" />
@@ -50,9 +50,9 @@
 
 <div align="center">
 
-  ![Profile Views](http://img.shields.io/badge/Profile%20Views-1376-blue)
+  ![Profile Views](http://img.shields.io/badge/Profile%20Views-6.3k-blue)
   ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C521%20hrs%2018%20mins-blue?style=flat)
-  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04%20million%20lines%20of%20code-blue?style=flat)
+  ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.04m%20lines%20of%20code-blue?style=flat)
   
 </div>
 
