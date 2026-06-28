@@ -4,7 +4,7 @@
 <img src="https://github-profile-maker.vercel.app/api/capsule?type=waving&color=00ffd5&colorEnd=A82DAA&height=200&section=header&text=Myself+Stark+%21%21&fontSize=30&fontColor=ffffff&animation=waving&gradientDirection=horizontal&parallax=true&wavePosition=47&waveAmplitude=20&waveSpeed=20&flipWave=true&textAlignX=50&textAlignY=50&rtl=24&rtr=24&rbr=0&rbl=0" />
 
 
-**Hello! I'm Stark (Stark), i'm a student and i love coding since i was in class 8th, and i really love doing complex things and making them simple and still i am learning new things day to day.**
+**Hello! I'm Stark, i'm a student and i love coding since i was in class 8th, and i really love doing complex things and making them simple and still i am learning new things day to day.**
 
 > I thrive on turning complex creative ideas into elegant, real-world solutions, from responsive front-end interfaces to intelligent back-end systems. My focus is on writing clean, maintainable code and practicing user-centric design to deliver products that are not only functional but also a delight to use.
 >
