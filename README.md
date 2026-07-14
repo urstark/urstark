@@ -14,7 +14,6 @@
 
 <!-- Name -->
 <div>
-  <img align="right" src="hero.png" width="420" />
   
   <h1>
     Hi, I'm <span>Stark</span> ⛩
@@ -28,8 +27,6 @@
   </p>
   <br clear="all"/>
 </div>
-
-<p align="center"><img src="divider.png" /></p>
 
 ## ☕ About Me
 
@@ -63,8 +60,6 @@ Fell in love with coding back in 8th grade and haven't stopped since. Always exp
   <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=urstark&layout=compact&hide_border=true&title_color=FFEBF0&text_color=FFF5F7&bg_color=231D24" width="39%" />
 </p>
 
-<p align="center"><img src="divider.png" /></p>
-
 ## 🌷 Activity Insights
 
 <img align="right" width="23%" src="./diana.png">
@@ -73,15 +68,11 @@ Fell in love with coding back in 8th grade and haven't stopped since. Always exp
 
 <br clear="all"/>
 
-<p align="center"><img src="divider.png" /></p>
-
 ## ✨ Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=urstark&theme=onestar&no-frame=true&row=1&margin-w=10&title_color=FFEBF0&bg_color=231D24" />
 </p>
-
-<p align="center"><img src="divider.png" /></p>
 
 ## 🍡 Contribution Graph
 
@@ -91,14 +82,16 @@ Fell in love with coding back in 8th grade and haven't stopped since. Always exp
 
 <br />
 
+<p align="center"><img src="divider.png" /></p>
+
 ## 📖 Currently Exploring
 
 - 🎙️ Deep diving into **React** and **Node.js** to build full-stack applications
 - 👾 Building an AI assistant in **Python**, inspired by Iron Man's FRIDAY
 - 🍡 Creating and experimenting with advanced Telegram bots
 - ☁️ Exploring ways to make web apps more intuitive and aesthetic
-
-<p align="center"><img src="divider.png" /></p>
+- 
+<br />
 
 ## ✨ Open to Collaborate
 
