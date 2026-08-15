@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <!-- Easy to edit: Just change the text inside the <text> tags below! -->
+  <style>
+    .text { font-family: 'Courier New', Courier, monospace; font-size: 14.5px; fill: #C9D1D9; }
+    .prompt { fill: #39D353; font-weight: bold; }
+  </style>
+  
+  <clipPath id="m1"><rect width="0" height="25" y="0"><animate attributeName="width" to="800" dur="1s" fill="freeze"/></rect></clipPath>
+  <clipPath id="m2"><rect width="0" height="25" y="25"><animate attributeName="width" to="800" dur="1s" begin="1s" fill="freeze"/></rect></clipPath>
+  <clipPath id="m3"><rect width="0" height="25" y="50"><animate attributeName="width" to="800" dur="1s" begin="2s" fill="freeze"/></rect></clipPath>
+  <clipPath id="m4"><rect width="0" height="25" y="75"><animate attributeName="width" to="800" dur="1s" begin="3s" fill="freeze"/></rect></clipPath>
+  <clipPath id="m5"><rect width="0" height="25" y="100"><animate attributeName="width" to="800" dur="1s" begin="4s" fill="freeze"/></rect></clipPath>
+  <clipPath id="m6"><rect width="0" height="25" y="125"><animate attributeName="width" to="800" dur="1s" begin="5s" fill="freeze"/></rect></clipPath>
+  <clipPath id="m7"><rect width="0" height="25" y="150"><animate attributeName="width" to="800" dur="1s" begin="6s" fill="freeze"/></rect></clipPath>
+
+  <g clip-path="url(#m1)"><text x="0" y="18" class="text"><tspan class="prompt">root@urstark:~/about#</tspan> cat bio.txt</text></g>
+  <g clip-path="url(#m2)"><text x="0" y="43" class="text">A developer from India who genuinely enjoys building things for the web.</text></g>
+  <g clip-path="url(#m3)"><text x="0" y="68" class="text">I spend my time creating full-stack apps, wiring up APIs, and building</text></g>
+  <g clip-path="url(#m4)"><text x="0" y="93" class="text">automation bots that actually do useful stuff.</text></g>
+  <g clip-path="url(#m5)"><text x="0" y="118" class="text">I started coding to build what I couldn't find. That curiosity turned into</text></g>
+  <g clip-path="url(#m6)"><text x="0" y="143" class="text">a daily habit. Now, whether it's an AI assistant, a music streaming app,</text></g>
+  <g clip-path="url(#m7)"><text x="0" y="168" class="text">or a script, I'm always working on something new. I just love building!</text></g>
+</svg>

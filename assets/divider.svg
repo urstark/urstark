@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
+  <style>
+    .text { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #39D353; font-weight: bold; }
+    .line {
+      stroke: #ffffffff;
+      stroke-width: 2;
+      stroke-dasharray: 4, 6;
+      stroke-dashoffset: 0;
+      animation: march 20s linear infinite;
+    }
+    @keyframes march {
+      to { stroke-dashoffset: 400; }
+    }
+    .cursor {
+      fill: #ffffffff;
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
+  
+  <text x="20" y="24" class="text">root@urstark:~#</text>
+  <line x1="150" y1="20" x2="770" y2="20" class="line" />
+  <rect x="775" y="12" width="8" height="15" class="cursor" />
+</svg>

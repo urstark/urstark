@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="150" viewBox="0 0 650 150">
+  <!-- Easy to edit: Just change the text inside the <text> tags below! -->
+  <style>
+    .text { font-family: 'Courier New', Courier, monospace; font-size: 15px; fill: #C9D1D9; }
+    .title { font-size: 22px; font-weight: bold; fill: #FFFFFF; }
+    .highlight { fill: #39D353; }
+    .prompt { fill: #39D353; font-weight: bold; }
+  </style>
+  
+  <clipPath id="mask1"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="650" dur="1s" fill="freeze" /></rect></clipPath>
+  <clipPath id="mask2"><rect x="0" y="40" width="0" height="30"><animate attributeName="width" from="0" to="650" dur="1s" begin="1s" fill="freeze" /></rect></clipPath>
+  <clipPath id="mask3"><rect x="0" y="70" width="0" height="30"><animate attributeName="width" from="0" to="650" dur="1s" begin="2s" fill="freeze" /></rect></clipPath>
+  <clipPath id="mask4"><rect x="0" y="100" width="0" height="40"><animate attributeName="width" from="0" to="650" dur="1.5s" begin="3s" fill="freeze" /></rect></clipPath>
+
+  <g clip-path="url(#mask1)">
+    <text x="0" y="30" class="text title"><tspan class="prompt">></tspan> Hi, I'm <tspan class="highlight">Stark</tspan> ⛩</text>
+  </g>
+  <g clip-path="url(#mask2)">
+    <text x="0" y="60" class="text"><tspan class="prompt">$</tspan> Probably coding</text>
+  </g>
+  <g clip-path="url(#mask3)">
+    <text x="0" y="90" class="text"><tspan class="prompt">$</tspan> Crafting simple, creative solutions to complex problems</text>
+  </g>
+  <g clip-path="url(#mask4)">
+    <text x="0" y="120" class="text"><tspan class="prompt">$</tspan> Thrives on collaborating and building alongside open-source</text>
+  </g>
+</svg>
