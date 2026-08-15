@@ -12,18 +12,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=22&pause=1300&color=FFFFFF&center=true&vCenter=true&width=680&lines=Student.+Developer.+Open+Source+Enthusiast.;Building+simple%2C+creative+solutions.;Always+learning+something+new+every+day." />
 </p>
 
-<!-- Name and Portrait Split Screen -->
-<table width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td width="60%" valign="center" style="border: none;">
-     <h2>eh?</h2>
-      <img src="assets/intro.svg" alt="Intro" width="100%" />
-    </td>
-    <td width="35%" align="center" style="border: none;">
-      <img src="assets/portrait.svg" alt="Portrait" width="300" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="left" src="assets/intro.svg" alt="Intro" width="60%" />
+  <img align="right" src="assets/portrait.svg" alt="Portrait" width="35%" />
+</p>
+<br clear="both" />
 
 
 ## About Me
