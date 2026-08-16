@@ -96,12 +96,10 @@ I'm actively looking to collaborate on interesting and purposeful projects. Whet
 </p>
 
 <p align="center">
-  <a href="https://github.com/urstark"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0D1117" /></a>
+  <a href="https://urstark.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0D1117"/></a>
   <a href="mailto:urstarkz@proton.me"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=protonmail&logoColor=0D1117"/></a>
   <a href="https://discordapp.com/users/954717884339355688"><img src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=discord&logoColor=0D1117"/></a>
   <a href="https://www.telegram.dog/urstarkz"><img src="https://img.shields.io/badge/Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=0D1117"/></a>
-  <a href="https://instagram.com/urstarkz"><img src="https://img.shields.io/badge/Instagram-FFFFFF?style=for-the-badge&logo=instagram&logoColor=0D1117"/></a>
-  <a href="https://urstark.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=vercel&logoColor=0D1117"/></a>
 </p>
 
 <p align="center">
