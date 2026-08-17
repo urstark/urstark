@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
   <style>
-    .text { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #39D353; font-weight: bold; }
+    .text { font-family: 'Courier New', Courier, monospace; font-size: 14px; fill: #FCA311; font-weight: bold; }
     .line {
       stroke: #ffffffff;
       stroke-width: 2;
