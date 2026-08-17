@@ -18,9 +18,6 @@
 </p>
 <br clear="both" />
 
-
-## About Me
-
 <p align="center">
   <img src="assets/about.svg" alt="About Me" width="100%" />
 </p>
