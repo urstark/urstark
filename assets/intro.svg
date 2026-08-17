@@ -3,8 +3,8 @@
   <style>
     .text { font-family: 'Courier New', Courier, monospace; font-size: 15px; fill: #C9D1D9; }
     .title { font-size: 22px; font-weight: bold; fill: #FFFFFF; }
-    .highlight { fill: #39D353; }
-    .prompt { fill: #39D353; font-weight: bold; }
+    .highlight { fill: #f9008f; }
+    .prompt { fill: #FCA311; font-weight: bold; }
   </style>
   
   <clipPath id="mask1"><rect x="0" y="0" width="0" height="40"><animate attributeName="width" from="0" to="650" dur="1s" fill="freeze" /></rect></clipPath>
