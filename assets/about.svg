@@ -2,7 +2,7 @@
   <!-- Easy to edit: Just change the text inside the <text> tags below! -->
   <style>
     .text { font-family: 'Courier New', Courier, monospace; font-size: 14.5px; fill: #C9D1D9; }
-    .prompt { fill: #39D353; font-weight: bold; }
+    .prompt { fill: #f9008f; font-weight: bold; }
   </style>
   
   <clipPath id="m1"><rect width="0" height="25" y="0"><animate attributeName="width" to="800" dur="1s" fill="freeze"/></rect></clipPath>
