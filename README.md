@@ -14,7 +14,7 @@
 
 <p align="center">
   <img align="left" src="assets/intro.svg" alt="Intro" width="60%" />
-  <img align="right" src="assets/portrait.svg" alt="Portrait" width="35%" />
+  <img align="right" src="assets/portrait.svg" alt="Portrait" width="20%" />
 </p>
 <br clear="both" />
 
