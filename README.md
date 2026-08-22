@@ -22,8 +22,6 @@
   <img src="assets/about.svg" alt="About Me" width="100%" />
 </p>
 
-<br />
-
 ## Github Stats
 
 <p align="center">
@@ -32,20 +30,14 @@
 
 <p align="center"><img src="assets/divider.svg" /></p>
 
-<br />
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=urstark&hide_border=true&background=FCF3EB&currStreakLabel=8A7366&ring=F9008F&fire=FCA311&sideLabels=8A7366&currStreakNum=8A7366&sideNums=8A7366&dates=8A7366" height="165" />
+  <img src="https://github-streaks.fiedler.sh/?user=urstark&hide_border=true&background=FCF3EB&currStreakLabel=8A7366&ring=F9008F&fire=FCA311&sideLabels=8A7366&currStreakNum=8A7366&sideNums=8A7366&dates=8A7366" height="165" />
   <img src="https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=urstark&layout=compact&hide_border=true&title_color=F9008F&text_color=8A7366&bg_color=FCF3EB" height="165" />
 </p>
 
-<br />
-
 <p align="center">
   <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=urstark&no-frame=true&row=1&margin-w=10&title_color=FFFFFF&bg_color=0D1117" />
-</p>
-
-<br /> 
+</p> 
 
 ## 📖 Currently Exploring
 
